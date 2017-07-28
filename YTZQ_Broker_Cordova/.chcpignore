@@ -1,0 +1,14 @@
+*.jar
+*.xml
+*.svn-base
+*.smap
+*.db
+*.java
+*.jsp
+*.tld
+*.class
+*.properties
+*.p12
+*.pem
+*.dll
+*.MF
