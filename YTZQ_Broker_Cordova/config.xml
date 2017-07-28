@@ -7,7 +7,7 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <content src="index.html" />
+    <content src="m/index.html" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
@@ -27,4 +27,7 @@
     <engine name="android" spec="~6.2.3" />
     <engine name="ios" spec="~4.4.0" />
     <plugin name="cordova-hot-code-push-plugin" spec="https://github.com/nordnet/cordova-hot-code-push.git" />
+    <chcp>
+        <config-file url="http://218.18.105.125:10004/chcp.json" />
+    </chcp>
 </widget>
