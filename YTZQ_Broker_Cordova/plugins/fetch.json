@@ -14,5 +14,13 @@
         },
         "is_top_level": true,
         "variables": {}
+    },
+    "cordova-hot-code-push-local-dev-addon": {
+        "source": {
+            "type": "registry",
+            "id": "https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }

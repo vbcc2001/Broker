@@ -12,6 +12,9 @@
         },
         "cordova-hot-code-push-plugin": {
             "PACKAGE_NAME": "com.ytzq.broker"
+        },
+        "cordova-hot-code-push-local-dev-addon": {
+            "PACKAGE_NAME": "com.ytzq.broker"
         }
     },
     "dependent_plugins": {}

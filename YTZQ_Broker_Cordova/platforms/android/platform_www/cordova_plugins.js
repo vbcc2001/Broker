@@ -7,13 +7,22 @@ module.exports = [
         "clobbers": [
             "chcp"
         ]
+    },
+    {
+        "id": "cordova-hot-code-push-local-dev-addon.chcpLocalDev",
+        "file": "plugins/cordova-hot-code-push-local-dev-addon/www/chcpLocalDev.js",
+        "pluginId": "cordova-hot-code-push-local-dev-addon",
+        "clobbers": [
+            "chcpLocalDev"
+        ]
     }
 ];
 module.exports.metadata = 
 // TOP OF METADATA
 {
     "cordova-plugin-whitelist": "1.3.2",
-    "cordova-hot-code-push-plugin": "1.5.3"
+    "cordova-hot-code-push-plugin": "1.5.3",
+    "cordova-hot-code-push-local-dev-addon": "0.4.2"
 };
 // BOTTOM OF METADATA
 });

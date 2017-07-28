@@ -1,0 +1,8 @@
+{
+  "name": "broker",
+  "ios_identifier": "",
+  "android_identifier": "com.ytzq.broker",
+  "update": "now",
+  "content_url": "http://218.18.105.125:10004",
+  "release": "2017.07.26-12.18.39"
+}

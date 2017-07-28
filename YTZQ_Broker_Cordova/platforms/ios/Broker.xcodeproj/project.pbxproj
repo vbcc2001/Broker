@@ -50,6 +50,35 @@
 		A29EF1A6F58046529D11D4F7 /* HCPAppUpdateRequestAlertDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = 20F22E4814CB4353B45CC61C /* HCPAppUpdateRequestAlertDialog.m */; };
 		D7292651A6914EE4A4C0E80B /* HCPAssetsFolderHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 9515632EADA34933B165A57C /* HCPAssetsFolderHelper.m */; };
 		C163CB78C0104E5CBB5BB149 /* CDVWKWebViewEngine+HCPPlugin_ReadAccessURL.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E4D3B019DC34295B128F2AD /* CDVWKWebViewEngine+HCPPlugin_ReadAccessURL.m */; };
+		29443F68D67648189ADF3637 /* HCPLDPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E777FCB30584CBCA04C19E8 /* HCPLDPlugin.m */; };
+		63A188BC2BB841BAADB16C68 /* HCPLDOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = C3B3312768F24370A9A23DF9 /* HCPLDOptions.m */; };
+		9F01FD9E94F24206BEB8AB77 /* HCPLDXmlConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 37719028D0944169A67AE153 /* HCPLDXmlConfig.m */; };
+		39C3241D1B5C4933A517C939 /* HCPLDXmlConfigParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C5E59E17714444FA4446B34 /* HCPLDXmlConfigParser.m */; };
+		6B9A939E37A14245B5A92FC5 /* HCPLDXmlTags.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D7679E5F6504650BCC88D29 /* HCPLDXmlTags.m */; };
+		35C1CC3BACA3476EA6616669 /* SocketAckEmitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F9CC13AC7FA43D88E066716 /* SocketAckEmitter.swift */; };
+		CE8546D643CE4451B9C49B98 /* SocketAckManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375AA090DF434C0F95DB0AC4 /* SocketAckManager.swift */; };
+		AFA98CAD63DC455DB2758EC5 /* SocketAnyEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483BF94F82794C428E2B5B3D /* SocketAnyEvent.swift */; };
+		0C739203696246F6BAE21962 /* SocketClientManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4924036E3AE3465D93D53C1E /* SocketClientManager.swift */; };
+		3C95B705CF79464F95AD49DA /* SocketEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97FCC8A953D644AD98E22049 /* SocketEngine.swift */; };
+		112D2C2B73C444F48AAE4431 /* SocketEngineClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522D2C056D5642F3B3F45BA3 /* SocketEngineClient.swift */; };
+		2A091240D85049AAB1EFB8CD /* SocketEnginePacketType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29D9425694394DC888EA03A3 /* SocketEnginePacketType.swift */; };
+		D8F71C1BDEB04F478AB1997C /* SocketEnginePollable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDF0A12E17645D1A69BE654 /* SocketEnginePollable.swift */; };
+		91DF1E50DBCB40D593EEB0BA /* SocketEngineSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04BCCF0C5C741CF835CCB67 /* SocketEngineSpec.swift */; };
+		B416868444DE42B4B8FEF3A0 /* SocketEngineWebsocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C662987CDDB499383DD30D4 /* SocketEngineWebsocket.swift */; };
+		F558CC2EFB924ED1AE79F083 /* SocketEventHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = A34623890F9C4A6E98005D95 /* SocketEventHandler.swift */; };
+		9721BD1C0E774D54AF5F9C5B /* SocketExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12050BC18E7845F2915024AB /* SocketExtensions.swift */; };
+		926A9FFD17D24871B13C17DA /* SocketIOClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AFAE894A1847E89379A5BD /* SocketIOClient.swift */; };
+		044083F0C6184FA7911487CF /* SocketIOClientConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA20C86E0F7A425C921CA83C /* SocketIOClientConfiguration.swift */; };
+		F03C92FC32D445FCAF7E0100 /* SocketIOClientOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2A97F700284C48A8E384E2 /* SocketIOClientOption.swift */; };
+		F42E24B112494FDCB53CA7C0 /* SocketIOClientSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00D8AAD6C084D7580393815 /* SocketIOClientSpec.swift */; };
+		7AB2A9CEBB29417C85636583 /* SocketIOClientStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3B74BE8B03E4A0A91D3EEFD /* SocketIOClientStatus.swift */; };
+		FC0C68E82301421FAA4AF51F /* SocketLogger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D67AF0524FD649F69B0C691C /* SocketLogger.swift */; };
+		60503122FCC740F198C95621 /* SocketPacket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ED8262F5DD419A8CBA7FEC /* SocketPacket.swift */; };
+		7168085A805B4C318E7AA3C0 /* SocketParsable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105C09153CA4436DA4E3A3EA /* SocketParsable.swift */; };
+		0A2793AD5C4249E18651E8E2 /* SocketStringReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07719141FB01458B9D9546BD /* SocketStringReader.swift */; };
+		225A8BCE35D5418BB6910C36 /* SocketTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BEBB581F2384FBCAA503B0D /* SocketTypes.swift */; };
+		D85F5EF2B4CD43F5B0461D52 /* SSLSecurity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B5E184C8F6454F91441F9D /* SSLSecurity.swift */; };
+		F2679F020D1B48D486CBD6F5 /* WebSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10204B4ED7A3448BA634DD65 /* WebSocket.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -161,6 +190,40 @@
 		0FEB1EEB93DD4C4C87C4F5AC /* HCPAppUpdateRequestAlertDialog.h */ = {isa = PBXFileReference; name = "HCPAppUpdateRequestAlertDialog.h"; path = "cordova-hot-code-push-plugin/Utils/HCPAppUpdateRequestAlertDialog.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
 		E58A3CC13DE4422B9AD0BC4D /* HCPAssetsFolderHelper.h */ = {isa = PBXFileReference; name = "HCPAssetsFolderHelper.h"; path = "cordova-hot-code-push-plugin/Utils/HCPAssetsFolderHelper.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
 		BE5FE999C3A4437EA5245A97 /* CDVWKWebViewEngine+HCPPlugin_ReadAccessURL.h */ = {isa = PBXFileReference; name = "CDVWKWebViewEngine+HCPPlugin_ReadAccessURL.h"; path = "cordova-hot-code-push-plugin/WKWebViewFix/CDVWKWebViewEngine+HCPPlugin_ReadAccessURL.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		1E777FCB30584CBCA04C19E8 /* HCPLDPlugin.m */ = {isa = PBXFileReference; name = "HCPLDPlugin.m"; path = "cordova-hot-code-push-local-dev-addon/HCPLDPlugin.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		C3B3312768F24370A9A23DF9 /* HCPLDOptions.m */ = {isa = PBXFileReference; name = "HCPLDOptions.m"; path = "cordova-hot-code-push-local-dev-addon/Config/HCPLDOptions.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		37719028D0944169A67AE153 /* HCPLDXmlConfig.m */ = {isa = PBXFileReference; name = "HCPLDXmlConfig.m"; path = "cordova-hot-code-push-local-dev-addon/Config/HCPLDXmlConfig.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		3C5E59E17714444FA4446B34 /* HCPLDXmlConfigParser.m */ = {isa = PBXFileReference; name = "HCPLDXmlConfigParser.m"; path = "cordova-hot-code-push-local-dev-addon/Config/HCPLDXmlConfigParser.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		6D7679E5F6504650BCC88D29 /* HCPLDXmlTags.m */ = {isa = PBXFileReference; name = "HCPLDXmlTags.m"; path = "cordova-hot-code-push-local-dev-addon/Config/HCPLDXmlTags.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		9F9CC13AC7FA43D88E066716 /* SocketAckEmitter.swift */ = {isa = PBXFileReference; name = "SocketAckEmitter.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketAckEmitter.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		375AA090DF434C0F95DB0AC4 /* SocketAckManager.swift */ = {isa = PBXFileReference; name = "SocketAckManager.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketAckManager.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		483BF94F82794C428E2B5B3D /* SocketAnyEvent.swift */ = {isa = PBXFileReference; name = "SocketAnyEvent.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketAnyEvent.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		4924036E3AE3465D93D53C1E /* SocketClientManager.swift */ = {isa = PBXFileReference; name = "SocketClientManager.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketClientManager.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		97FCC8A953D644AD98E22049 /* SocketEngine.swift */ = {isa = PBXFileReference; name = "SocketEngine.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketEngine.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		522D2C056D5642F3B3F45BA3 /* SocketEngineClient.swift */ = {isa = PBXFileReference; name = "SocketEngineClient.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketEngineClient.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		29D9425694394DC888EA03A3 /* SocketEnginePacketType.swift */ = {isa = PBXFileReference; name = "SocketEnginePacketType.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketEnginePacketType.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		9CDF0A12E17645D1A69BE654 /* SocketEnginePollable.swift */ = {isa = PBXFileReference; name = "SocketEnginePollable.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketEnginePollable.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		C04BCCF0C5C741CF835CCB67 /* SocketEngineSpec.swift */ = {isa = PBXFileReference; name = "SocketEngineSpec.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketEngineSpec.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		7C662987CDDB499383DD30D4 /* SocketEngineWebsocket.swift */ = {isa = PBXFileReference; name = "SocketEngineWebsocket.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketEngineWebsocket.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		A34623890F9C4A6E98005D95 /* SocketEventHandler.swift */ = {isa = PBXFileReference; name = "SocketEventHandler.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketEventHandler.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		12050BC18E7845F2915024AB /* SocketExtensions.swift */ = {isa = PBXFileReference; name = "SocketExtensions.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketExtensions.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		F4AFAE894A1847E89379A5BD /* SocketIOClient.swift */ = {isa = PBXFileReference; name = "SocketIOClient.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketIOClient.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		EA20C86E0F7A425C921CA83C /* SocketIOClientConfiguration.swift */ = {isa = PBXFileReference; name = "SocketIOClientConfiguration.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketIOClientConfiguration.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		FF2A97F700284C48A8E384E2 /* SocketIOClientOption.swift */ = {isa = PBXFileReference; name = "SocketIOClientOption.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketIOClientOption.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		D00D8AAD6C084D7580393815 /* SocketIOClientSpec.swift */ = {isa = PBXFileReference; name = "SocketIOClientSpec.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketIOClientSpec.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		D3B74BE8B03E4A0A91D3EEFD /* SocketIOClientStatus.swift */ = {isa = PBXFileReference; name = "SocketIOClientStatus.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketIOClientStatus.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		D67AF0524FD649F69B0C691C /* SocketLogger.swift */ = {isa = PBXFileReference; name = "SocketLogger.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketLogger.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		52ED8262F5DD419A8CBA7FEC /* SocketPacket.swift */ = {isa = PBXFileReference; name = "SocketPacket.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketPacket.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		105C09153CA4436DA4E3A3EA /* SocketParsable.swift */ = {isa = PBXFileReference; name = "SocketParsable.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketParsable.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		07719141FB01458B9D9546BD /* SocketStringReader.swift */ = {isa = PBXFileReference; name = "SocketStringReader.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketStringReader.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		3BEBB581F2384FBCAA503B0D /* SocketTypes.swift */ = {isa = PBXFileReference; name = "SocketTypes.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SocketTypes.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		51B5E184C8F6454F91441F9D /* SSLSecurity.swift */ = {isa = PBXFileReference; name = "SSLSecurity.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/SSLSecurity.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		10204B4ED7A3448BA634DD65 /* WebSocket.swift */ = {isa = PBXFileReference; name = "WebSocket.swift"; path = "cordova-hot-code-push-local-dev-addon/SocketIOClientSwift/WebSocket.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		62CC97668E564B8B9E4EA28C /* HCPLDPlugin.h */ = {isa = PBXFileReference; name = "HCPLDPlugin.h"; path = "cordova-hot-code-push-local-dev-addon/HCPLDPlugin.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		1F5F1F0294FB4B66B039663C /* HCPLDOptions.h */ = {isa = PBXFileReference; name = "HCPLDOptions.h"; path = "cordova-hot-code-push-local-dev-addon/Config/HCPLDOptions.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		F209581590C04E53B09B6707 /* HCPLDXmlConfig.h */ = {isa = PBXFileReference; name = "HCPLDXmlConfig.h"; path = "cordova-hot-code-push-local-dev-addon/Config/HCPLDXmlConfig.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		998EE1EE1A9949218092A222 /* HCPLDXmlConfigParser.h */ = {isa = PBXFileReference; name = "HCPLDXmlConfigParser.h"; path = "cordova-hot-code-push-local-dev-addon/Config/HCPLDXmlConfigParser.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		3320A55152C8470ABAA0BA2E /* HCPLDXmlTags.h */ = {isa = PBXFileReference; name = "HCPLDXmlTags.h"; path = "cordova-hot-code-push-local-dev-addon/Config/HCPLDXmlTags.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -335,6 +398,40 @@
 				0FEB1EEB93DD4C4C87C4F5AC /* HCPAppUpdateRequestAlertDialog.h */,
 				E58A3CC13DE4422B9AD0BC4D /* HCPAssetsFolderHelper.h */,
 				BE5FE999C3A4437EA5245A97 /* CDVWKWebViewEngine+HCPPlugin_ReadAccessURL.h */,
+				1E777FCB30584CBCA04C19E8 /* HCPLDPlugin.m */,
+				C3B3312768F24370A9A23DF9 /* HCPLDOptions.m */,
+				37719028D0944169A67AE153 /* HCPLDXmlConfig.m */,
+				3C5E59E17714444FA4446B34 /* HCPLDXmlConfigParser.m */,
+				6D7679E5F6504650BCC88D29 /* HCPLDXmlTags.m */,
+				9F9CC13AC7FA43D88E066716 /* SocketAckEmitter.swift */,
+				375AA090DF434C0F95DB0AC4 /* SocketAckManager.swift */,
+				483BF94F82794C428E2B5B3D /* SocketAnyEvent.swift */,
+				4924036E3AE3465D93D53C1E /* SocketClientManager.swift */,
+				97FCC8A953D644AD98E22049 /* SocketEngine.swift */,
+				522D2C056D5642F3B3F45BA3 /* SocketEngineClient.swift */,
+				29D9425694394DC888EA03A3 /* SocketEnginePacketType.swift */,
+				9CDF0A12E17645D1A69BE654 /* SocketEnginePollable.swift */,
+				C04BCCF0C5C741CF835CCB67 /* SocketEngineSpec.swift */,
+				7C662987CDDB499383DD30D4 /* SocketEngineWebsocket.swift */,
+				A34623890F9C4A6E98005D95 /* SocketEventHandler.swift */,
+				12050BC18E7845F2915024AB /* SocketExtensions.swift */,
+				F4AFAE894A1847E89379A5BD /* SocketIOClient.swift */,
+				EA20C86E0F7A425C921CA83C /* SocketIOClientConfiguration.swift */,
+				FF2A97F700284C48A8E384E2 /* SocketIOClientOption.swift */,
+				D00D8AAD6C084D7580393815 /* SocketIOClientSpec.swift */,
+				D3B74BE8B03E4A0A91D3EEFD /* SocketIOClientStatus.swift */,
+				D67AF0524FD649F69B0C691C /* SocketLogger.swift */,
+				52ED8262F5DD419A8CBA7FEC /* SocketPacket.swift */,
+				105C09153CA4436DA4E3A3EA /* SocketParsable.swift */,
+				07719141FB01458B9D9546BD /* SocketStringReader.swift */,
+				3BEBB581F2384FBCAA503B0D /* SocketTypes.swift */,
+				51B5E184C8F6454F91441F9D /* SSLSecurity.swift */,
+				10204B4ED7A3448BA634DD65 /* WebSocket.swift */,
+				62CC97668E564B8B9E4EA28C /* HCPLDPlugin.h */,
+				1F5F1F0294FB4B66B039663C /* HCPLDOptions.h */,
+				F209581590C04E53B09B6707 /* HCPLDXmlConfig.h */,
+				998EE1EE1A9949218092A222 /* HCPLDXmlConfigParser.h */,
+				3320A55152C8470ABAA0BA2E /* HCPLDXmlTags.h */,
 			);
 			name = Plugins;
 			path = "Broker/Plugins";
@@ -481,6 +578,35 @@
 				A29EF1A6F58046529D11D4F7 /* HCPAppUpdateRequestAlertDialog.m in Sources */,
 				D7292651A6914EE4A4C0E80B /* HCPAssetsFolderHelper.m in Sources */,
 				C163CB78C0104E5CBB5BB149 /* CDVWKWebViewEngine+HCPPlugin_ReadAccessURL.m in Sources */,
+				29443F68D67648189ADF3637 /* HCPLDPlugin.m in Sources */,
+				63A188BC2BB841BAADB16C68 /* HCPLDOptions.m in Sources */,
+				9F01FD9E94F24206BEB8AB77 /* HCPLDXmlConfig.m in Sources */,
+				39C3241D1B5C4933A517C939 /* HCPLDXmlConfigParser.m in Sources */,
+				6B9A939E37A14245B5A92FC5 /* HCPLDXmlTags.m in Sources */,
+				35C1CC3BACA3476EA6616669 /* SocketAckEmitter.swift in Sources */,
+				CE8546D643CE4451B9C49B98 /* SocketAckManager.swift in Sources */,
+				AFA98CAD63DC455DB2758EC5 /* SocketAnyEvent.swift in Sources */,
+				0C739203696246F6BAE21962 /* SocketClientManager.swift in Sources */,
+				3C95B705CF79464F95AD49DA /* SocketEngine.swift in Sources */,
+				112D2C2B73C444F48AAE4431 /* SocketEngineClient.swift in Sources */,
+				2A091240D85049AAB1EFB8CD /* SocketEnginePacketType.swift in Sources */,
+				D8F71C1BDEB04F478AB1997C /* SocketEnginePollable.swift in Sources */,
+				91DF1E50DBCB40D593EEB0BA /* SocketEngineSpec.swift in Sources */,
+				B416868444DE42B4B8FEF3A0 /* SocketEngineWebsocket.swift in Sources */,
+				F558CC2EFB924ED1AE79F083 /* SocketEventHandler.swift in Sources */,
+				9721BD1C0E774D54AF5F9C5B /* SocketExtensions.swift in Sources */,
+				926A9FFD17D24871B13C17DA /* SocketIOClient.swift in Sources */,
+				044083F0C6184FA7911487CF /* SocketIOClientConfiguration.swift in Sources */,
+				F03C92FC32D445FCAF7E0100 /* SocketIOClientOption.swift in Sources */,
+				F42E24B112494FDCB53CA7C0 /* SocketIOClientSpec.swift in Sources */,
+				7AB2A9CEBB29417C85636583 /* SocketIOClientStatus.swift in Sources */,
+				FC0C68E82301421FAA4AF51F /* SocketLogger.swift in Sources */,
+				60503122FCC740F198C95621 /* SocketPacket.swift in Sources */,
+				7168085A805B4C318E7AA3C0 /* SocketParsable.swift in Sources */,
+				0A2793AD5C4249E18651E8E2 /* SocketStringReader.swift in Sources */,
+				225A8BCE35D5418BB6910C36 /* SocketTypes.swift in Sources */,
+				D85F5EF2B4CD43F5B0461D52 /* SSLSecurity.swift in Sources */,
+				F2679F020D1B48D486CBD6F5 /* WebSocket.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

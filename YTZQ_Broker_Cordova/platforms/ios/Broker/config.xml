@@ -15,6 +15,14 @@
         <param name="ios-package" value="CDVGestureHandler" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="HotCodePush">
+        <param name="ios-package" value="HCPPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="HotCodePushLocalDevMode">
+        <param name="ios-package" value="HCPLDPlugin" />
+        <param name="onload" value="true" />
+    </feature>
     <name>Broker</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
@@ -22,7 +30,7 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
-    <content src="index.html" />
+    <content src="m/index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -30,6 +38,9 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <chcp>
+        <config-file url="http://218.18.105.125:10004/chcp.json" />
+    </chcp>
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <preference name="AllowInlineMediaPlayback" value="false" />
@@ -46,8 +57,4 @@
     <preference name="PaginationBreakingMode" value="page" />
     <preference name="PaginationMode" value="unpaginated" />
     <preference name="loadUrlTimeoutValue" value="60000" />
-    <feature name="HotCodePush">
-        <param name="ios-package" value="HCPPlugin" />
-        <param name="onload" value="true" />
-    </feature>
 </widget>

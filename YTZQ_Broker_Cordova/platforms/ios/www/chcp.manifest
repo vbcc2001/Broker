@@ -1,0 +1,734 @@
+[
+  {
+    "file": ".svn/entries",
+    "hash": "2737b49252e2a4c0fe4c342e92b13285"
+  },
+  {
+    "file": ".svn/format",
+    "hash": "2737b49252e2a4c0fe4c342e92b13285"
+  },
+  {
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "index.html",
+    "hash": "0e9a65ea45adc925bdcb693c19cfe38b"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "b144c071205225b243caacc5b550f592"
+  },
+  {
+    "file": "m/2.0.0/css/hsea.min.css",
+    "hash": "9e18104f8bd2dab9cf2d8c33354432d2"
+  },
+  {
+    "file": "m/2.0.0/js/hsea.min.js",
+    "hash": "e28dd215972b4a6214b1bca2adeace09"
+  },
+  {
+    "file": "m/2.0.0/js/jquery-1.11.0.js",
+    "hash": "3b80424646a7ecdb19273d86800c1ac0"
+  },
+  {
+    "file": "m/2.0.0/js/new_file.html",
+    "hash": "0f4b040a9889690d213f610b85da734e"
+  },
+  {
+    "file": "m/2.0.0/js/new_file.js",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/cache/scripts/cacheUtils.js",
+    "hash": "7baae5645da3cc96ef9786383baf76d0"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/cache/scripts/cacheUtils4App.js",
+    "hash": "b4e0fe2640163e742384381f5fe23919"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/cache/scripts/cacheUtils4H5.js",
+    "hash": "8b5474bff756e3ff2d6519383acc388e"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/css/hsea-extend.css",
+    "hash": "2f064bd4c9e58a6b6e1156831cb6e006"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/endecrypt/scripts/aes.js",
+    "hash": "6b82e34b29351b5b3bfe005f6a0bea98"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/endecrypt/scripts/base64.js",
+    "hash": "b5de041695625b2694feeb9015edbfdb"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/endecrypt/scripts/des.js",
+    "hash": "9b8e69eaae056b3007fb1c7e5d1ae964"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/endecrypt/scripts/endecryptUtils.js",
+    "hash": "7536dbebd5cf3c87e7283c55029e1f40"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/endecrypt/scripts/md5.js",
+    "hash": "d2de03452563a71520e502474e54f11f"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/endecrypt/scripts/rsa.js",
+    "hash": "e1c384d9952350d4ec552033ba460e98"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/endecrypt/scripts/sha1.js",
+    "hash": "19fa7214615d8428e77cd040ea6bb969"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/event/scripts/toucher.js",
+    "hash": "c4b06a850f2ebb23ab224417ad6c1872"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/imagelazy/scripts/imagelazy.js",
+    "hash": "cb013d264f11618ef055546969005f6c"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll/css/iscroll4-custom.css",
+    "hash": "eb05e6c765040a27b900b9439ad1441e"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll/scripts/hIscroll.js",
+    "hash": "e2b9cc26b364645c24682a2dbfa2aa14"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll/scripts/iscroll4.js",
+    "hash": "27e8f965b3e55e36ebf0a4358bf29dfb"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll/scripts/shIscroll.js",
+    "hash": "e928f569608c880448524ab6bc33fdbd"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll/scripts/svIscroll.js",
+    "hash": "f94dd033eb69dfa7b7909770a7749d37"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll/scripts/vIscroll.js",
+    "hash": "b18145da2935a03117b396da558331f1"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll5/css/iscroll-refresh.css",
+    "hash": "6a12ff439310f2f3be89d5b67affcedc"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll5/css/iscroll.css",
+    "hash": "fa5b2d092a9f5e09bc3f4ebe18408299"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll5/images/ico1.png",
+    "hash": "227a0e513116290b1fd17d32cb94a181"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll5/images/ico2.png",
+    "hash": "d55edc53e7e7e668b59accb4be174da9"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll5/images/pull-icon@2x.png",
+    "hash": "a94e463e98ae4bfa2018627c045f5b7d"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll5/scripts/iscroll-probe.js",
+    "hash": "4cfade6515dc2eeebb2c6e9f14c35f16"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll5/scripts/iscroll-refresh.js",
+    "hash": "c4ed55dd07b1f054f4769e2c4672a3b3"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll5/scripts/iscroll5.js",
+    "hash": "c68558100f165493eb12d5226604c2f8"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/iscroll5/scripts/iscrollUtils.js",
+    "hash": "d43397289c60c23e4e088c3f986b2499"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/css/keypanel_keyword_black.css",
+    "hash": "7d3251f182d68749fb97995c3e9f9361"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/css/keypanel_keyword_default.css",
+    "hash": "2c5039b323b1d82f088d01b2b00712e0"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/css/keypanel_keyword_default2.css",
+    "hash": "e82a31ba5970291b9a445698b2bb7f00"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/css/keypanel_keyword_white.css",
+    "hash": "f2ce0d4e28b4661c245b7652e62ad08a"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/scripts/keyPanel.js",
+    "hash": "30e8a63f3d34b4153f9f9f3aae168578"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/scripts/keyType1.js",
+    "hash": "49521bb0d0d5e07b46a2911fe5ebe982"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/scripts/keyType2.js",
+    "hash": "1db5731579c4829fe31dc44ed42f0684"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/scripts/keyType3.js",
+    "hash": "aa60ef734200116b2337d2e3cbf3b45f"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/scripts/keyType4.js",
+    "hash": "d3a52ce94b48e77213cb870dfef3faed"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/scripts/keyType5.js",
+    "hash": "1283456dfc37beb171f4bb42f5fbf206"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/scripts/keyType6.js",
+    "hash": "ebacaa0149b03c67db0a286491ebcf47"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/scripts/keyType7.js",
+    "hash": "433291acd76abc7045422a341b309446"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/keypanel/scripts/keyType8.js",
+    "hash": "cd89e47c4baeb6c322c4a6131c8c8ff4"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/mobiscroll/css/mobiscroll.css",
+    "hash": "055b0584911ae85eb3473a88e785239a"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/mobiscroll/scripts/mobiscroll.js",
+    "hash": "65cf5cf140c69d1b7fd9e362bdd3921a"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/mobiscroll/scripts/mobiscrollUtils.js",
+    "hash": "cefe9d2a4f73cf1d8aeb2530c33e5848"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/sso/scripts/ssoUtils.js",
+    "hash": "2279b7c5179939bba22646774ed9b2e4"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/swipeout/css/swipeout.css",
+    "hash": "bb15c9424722c4dfd019e4709d2ff830"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/swipeout/scripts/swipeout.js",
+    "hash": "e1fbce89d70ad9ad5ec1a9615377e29e"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/swiper/css/photoBrowser.css",
+    "hash": "3aca80b9e7db90bc05f9dc38f68b720c"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/swiper/css/swiper.css",
+    "hash": "0a66398da323e911f370a629ab09ef6b"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/swiper/scripts/photoBrowser.js",
+    "hash": "614216f5e3b840aefe964eadae294cf3"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/swiper/scripts/swiper.js",
+    "hash": "b82204426d556532ff2535d649088880"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/tkcharts/scripts/tkcharts.js",
+    "hash": "567193b54b0ff3b243d387393551b516"
+  },
+  {
+    "file": "m/2.0.0/js/plugins/validator/scripts/validatorUtils.js",
+    "hash": "a28a67e62b2d9a89edfd40b17b4c1d4a"
+  },
+  {
+    "file": "m/2.0.0/js/复制 hsea.min.js",
+    "hash": "b4f7a0460ea912b64bed3ddadad0e598"
+  },
+  {
+    "file": "m/2.0.0/lib/jquery.min.js",
+    "hash": "26e8ab966785709dd7e32f65591478bd"
+  },
+  {
+    "file": "m/2.0.0/lib/seajs-combo.js",
+    "hash": "f2da071d54115edd93a740bc5a12f821"
+  },
+  {
+    "file": "m/2.0.0/lib/vue.min.js",
+    "hash": "7d28962e000ece5df2593972b76d3c6f"
+  },
+  {
+    "file": "m/2.0.0/lib/vue2.0.min.js",
+    "hash": "150fed8e1c7034d19364b02aef77e7bc"
+  },
+  {
+    "file": "m/2.0.0/lib/zepto.js",
+    "hash": "2ac35df3ec7f282cb0c6d4da8262ebf0"
+  },
+  {
+    "file": "m/2.0.0/lib/zepto.min.js",
+    "hash": "41dc0156f2bb824240e99a3dc12694f6"
+  },
+  {
+    "file": "m/404.html",
+    "hash": "53dd0e91d263567ef73912599847fee2"
+  },
+  {
+    "file": "m/globalConfig.js",
+    "hash": "1dfe1e72bc7d72b53752e9d2073a630d"
+  },
+  {
+    "file": "m/index.html",
+    "hash": "e5c606c80336b26b9202b87ce3255ad1"
+  },
+  {
+    "file": "m/trade/configuration.js",
+    "hash": "38c840f577bca663a01dfb56f2d1858a"
+  },
+  {
+    "file": "m/trade/css/01/common.css",
+    "hash": "b23b7d0953d93343b17af198f2b1449d"
+  },
+  {
+    "file": "m/trade/css/01/style.css",
+    "hash": "86f75b7f48c8164672855aff6690aa2a"
+  },
+  {
+    "file": "m/trade/css/animate.css",
+    "hash": "d2d6bbd1aada46b81bf1b45bc89922fd"
+  },
+  {
+    "file": "m/trade/css/common.css",
+    "hash": "6ce90c0e25bfad01a0078d5a02ee90c0"
+  },
+  {
+    "file": "m/trade/css/demo.css",
+    "hash": "34db581b5dd2133a18cf497f9ddfbb75"
+  },
+  {
+    "file": "m/trade/css/font.css",
+    "hash": "4737261d7c85dd3d71210dc77a08cbc2"
+  },
+  {
+    "file": "m/trade/css/otc.css",
+    "hash": "37124f8bf93415fbfcbbb1fede76e6dc"
+  },
+  {
+    "file": "m/trade/css/style.css",
+    "hash": "e0f9e07344e3e0ca18452310915dc4a5"
+  },
+  {
+    "file": "m/trade/index.html",
+    "hash": "b67096e765f49766a036c640b28dacda"
+  },
+  {
+    "file": "m/trade/indexTota.js",
+    "hash": "f9f9329d7024841cd00ea1b96427457a"
+  },
+  {
+    "file": "m/trade/prompt.txt",
+    "hash": "ff90752ed58034427fd8bc6289197878"
+  },
+  {
+    "file": "m/trade/scripts/account/activePhone.js",
+    "hash": "43035020b945079af5b77665e6d0030c"
+  },
+  {
+    "file": "m/trade/scripts/account/changePassword.js",
+    "hash": "af9c9ce02830373372efd049e31f1184"
+  },
+  {
+    "file": "m/trade/scripts/account/developing.js",
+    "hash": "ea9451904e2b5baabad4b7f2c080abe8"
+  },
+  {
+    "file": "m/trade/scripts/account/filter.js",
+    "hash": "7570d9b6cf65af4f466eaa1d83c72e2c"
+  },
+  {
+    "file": "m/trade/scripts/account/index.js",
+    "hash": "334e493c50c2bab0955c975efe34a4ed"
+  },
+  {
+    "file": "m/trade/scripts/account/indexPort.js",
+    "hash": "9860c5cd6394f0e21c8cf8c6d61a3994"
+  },
+  {
+    "file": "m/trade/scripts/account/login.js",
+    "hash": "cf0f08595f33f16d7b284f257a110f43"
+  },
+  {
+    "file": "m/trade/scripts/account/loginPort.js",
+    "hash": "7f71e19a1105d6f2f37a856f1002b53b"
+  },
+  {
+    "file": "m/trade/scripts/account/risk.js",
+    "hash": "90aca635cf369d858f31377faee0dc2b"
+  },
+  {
+    "file": "m/trade/scripts/account/riskProtocol.js",
+    "hash": "8bd0bd5024f0870e1d64de6549b3185e"
+  },
+  {
+    "file": "m/trade/scripts/account/riskSuccess.js",
+    "hash": "0476e1125e70036b252aef5f49641b3d"
+  },
+  {
+    "file": "m/trade/scripts/account/riskTest.js",
+    "hash": "b96ee5268884dc1ad1bed12fa73ec471"
+  },
+  {
+    "file": "m/trade/scripts/account/setPhone.js",
+    "hash": "9a2513f095501795e251b5df0a2b4948"
+  },
+  {
+    "file": "m/trade/scripts/account/test.js",
+    "hash": "92a02114f2270986c9ec29caa162d98b"
+  },
+  {
+    "file": "m/trade/scripts/common/com.js",
+    "hash": "c0a466df2dec55c7d524a3d6ae61ace0"
+  },
+  {
+    "file": "m/trade/scripts/common/common.js",
+    "hash": "246b7c29278357f24dffa9dfa011255a"
+  },
+  {
+    "file": "m/trade/scripts/common/commonFunc.js",
+    "hash": "24c3cb880de77d93d78a9021ed0108bb"
+  },
+  {
+    "file": "m/trade/scripts/common/commonOrder.js",
+    "hash": "a8b6ed007a6cc3142348e202d5c4bf3f"
+  },
+  {
+    "file": "m/trade/scripts/common/creditOrder.js",
+    "hash": "9bb18a086df6306ca6cb4b333b88504f"
+  },
+  {
+    "file": "m/trade/scripts/common/keyboard.js",
+    "hash": "5fff79d580d94bdc42f0c1c9204cc10d"
+  },
+  {
+    "file": "m/trade/scripts/common/sockOrder.js",
+    "hash": "75f75d8eca48841c784dda08fff1a16c"
+  },
+  {
+    "file": "m/trade/scripts/common/zeptoExtend.js",
+    "hash": "00af2e37c57535eabe41683578d8f874"
+  },
+  {
+    "file": "m/trade/scripts/shares/distribution.js",
+    "hash": "5cb06c412065500d8bc6a25ce878a794"
+  },
+  {
+    "file": "m/trade/scripts/shares/giveCancel.js",
+    "hash": "a810ceb43c028eaf05c93a1bc454f3c4"
+  },
+  {
+    "file": "m/trade/scripts/shares/more.js",
+    "hash": "947b668bf4840ed5324e827af2c619ec"
+  },
+  {
+    "file": "m/trade/scripts/shares/oneKeyPurchase.js",
+    "hash": "c2b59e28ed40f602fef809115fc476cf"
+  },
+  {
+    "file": "m/trade/scripts/shares/payQueryHistory.js",
+    "hash": "b0984f9b048fac0fc1c778f7e1265254"
+  },
+  {
+    "file": "m/trade/scripts/shares/purchase.js",
+    "hash": "afc7ef24515790a4bfd2d9dddd86f307"
+  },
+  {
+    "file": "m/trade/scripts/shares/recordQuery.js",
+    "hash": "7310972b227f480fd5d87d29578deef0"
+  },
+  {
+    "file": "m/trade/scripts/shares/success.js",
+    "hash": "811b6aa7980d9250e18893f69f6e1c44"
+  },
+  {
+    "file": "m/trade/scripts/shares/theCurrentSuccess.js",
+    "hash": "7b67a4299212cdb78d22412f8799545e"
+  },
+  {
+    "file": "m/trade/scripts/shares/waiverSubscription.js",
+    "hash": "75e6c17338f41f1858bbce06728c4cb2"
+  },
+  {
+    "file": "m/trade/scripts/stock/matchProtocol.js",
+    "hash": "2ec9f082db4f84143167d5bb56c64ac4"
+  },
+  {
+    "file": "m/trade/scripts/stock/moneyFlow.js",
+    "hash": "ca4a4592dbc6f93b32d6bbc166c31813"
+  },
+  {
+    "file": "m/trade/scripts/stock/noMatchProtocol.js",
+    "hash": "6f7b936078ea20b91aebb693210a2424"
+  },
+  {
+    "file": "m/trade/scripts/stock/statementQuery.js",
+    "hash": "919d3c0405a7a4e0ef7439589b7c0903"
+  },
+  {
+    "file": "m/trade/scripts/stock/stockBuy.js",
+    "hash": "637e7eb9980827ee4f2e499a342e856f"
+  },
+  {
+    "file": "m/trade/scripts/stock/stockCancel.js",
+    "hash": "812365e3bb538308b03d19ef33c81454"
+  },
+  {
+    "file": "m/trade/scripts/stock/stockHolding.js",
+    "hash": "588959057df188736c1815da22e02ca3"
+  },
+  {
+    "file": "m/trade/scripts/stock/stockNoMatchHolding.js",
+    "hash": "8e7e1988676bcc7558bb88d798384640"
+  },
+  {
+    "file": "m/trade/scripts/stock/stockQuery.js",
+    "hash": "177cb3d56ef880e067a1c81bad2c1d62"
+  },
+  {
+    "file": "m/trade/scripts/stock/stockQueryHistory.js",
+    "hash": "6b5449c9ec9707cdd8fe0bcacd95caad"
+  },
+  {
+    "file": "m/trade/scripts/stock/stockQueryToday.js",
+    "hash": "7ed36744862e391fe83b943656f2f953"
+  },
+  {
+    "file": "m/trade/scripts/stock/stockSell.js",
+    "hash": "5a2fec0fc8b5bc9da924f33e46b5cb33"
+  },
+  {
+    "file": "m/trade/service/scripts/base/service.js",
+    "hash": "d5787c32d7aa155d558d509f4d58c0f1"
+  },
+  {
+    "file": "m/trade/service/scripts/news/service_news.js",
+    "hash": "01a0f87da2da25a0ea1e6e2db783e081"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/bak_service_common.js",
+    "hash": "cd3e84270097e38af4878ef5535d7372"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/bak_service_hq.js",
+    "hash": "b9a4b0b8896d8912a2910549593e9483"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/bak_service_stock.js",
+    "hash": "0d7ef5665c04823fea5394f8e44943d2"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/service_added.js",
+    "hash": "05b1a1436a88df1f9b0cd0aa2006875c"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/service_common.js",
+    "hash": "0fb4c2eb83e43dd4e7ea10d8982eb38d"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/service_credit.js",
+    "hash": "c6b1f4fa8af0e5c41c149151f21dcb89"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/service_filter.js",
+    "hash": "c273cba7b6fdf3a310f35711442b0142"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/service_fund.js",
+    "hash": "281782004fb0c0403324a937c1a1af2f"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/service_ggt.js",
+    "hash": "f74b504a7f5d7c67c69a7666c84ac52a"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/service_hq.js",
+    "hash": "2360346ac540c9da0c20b9ba5edf71d6"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/service_otc.js",
+    "hash": "79a5ac65b412d9b2042ec97b69f066e8"
+  },
+  {
+    "file": "m/trade/service/scripts/trade/service_stock.js",
+    "hash": "2edc00fa3e7ecd7f87b9d4c97969174b"
+  },
+  {
+    "file": "m/trade/views/360/360stock.html",
+    "hash": "d0eebaf89515c112dcd99a3c6d3229d9"
+  },
+  {
+    "file": "m/trade/views/360/360stockIndex.html",
+    "hash": "9889a66b15199890975b957320fd456d"
+  },
+  {
+    "file": "m/trade/views/account/activePhone.html",
+    "hash": "fd916ff3f61f4a8660693b74e2ae1170"
+  },
+  {
+    "file": "m/trade/views/account/changePassword.html",
+    "hash": "9470467270c332bf6938bb77e084eb8c"
+  },
+  {
+    "file": "m/trade/views/account/developing.html",
+    "hash": "40712bff1851f3bc436bd1b3b65353fa"
+  },
+  {
+    "file": "m/trade/views/account/filter.html",
+    "hash": "9ac33064ad26e6a841e1c4c6b20cd26b"
+  },
+  {
+    "file": "m/trade/views/account/index.html",
+    "hash": "4b9babd87ebba69161410f3166f03e3f"
+  },
+  {
+    "file": "m/trade/views/account/jquery-1.11.0.js",
+    "hash": "3b80424646a7ecdb19273d86800c1ac0"
+  },
+  {
+    "file": "m/trade/views/account/login.html",
+    "hash": "bc9c0417c69dd66958df42c7d1f9af34"
+  },
+  {
+    "file": "m/trade/views/account/risk.html",
+    "hash": "88e043b510c0fb27f8588b9fb1703a47"
+  },
+  {
+    "file": "m/trade/views/account/riskProtocol.html",
+    "hash": "994eef1b68592f6b95d1ff7857bc59dc"
+  },
+  {
+    "file": "m/trade/views/account/riskSuccess.html",
+    "hash": "7d0ed8c5bf4325d0eb7036930bf83a3c"
+  },
+  {
+    "file": "m/trade/views/account/riskTest.html",
+    "hash": "93c0e6535981032274b7686ef2b3728c"
+  },
+  {
+    "file": "m/trade/views/account/setPhone.html",
+    "hash": "49e4af526088b0a8222df04a9ce5c0a7"
+  },
+  {
+    "file": "m/trade/views/banking/collection.html",
+    "hash": "e8352233bd14b7f0e774013a8ac190bc"
+  },
+  {
+    "file": "m/trade/views/banking/transfer.html",
+    "hash": "ef7378738d5cc9530042a91c5ab5cdbf"
+  },
+  {
+    "file": "m/trade/views/banking/transferHistory.html",
+    "hash": "9c96b31ed64f081603b32e6939827dd5"
+  },
+  {
+    "file": "m/trade/views/shares/distribution.html",
+    "hash": "9abd7bf1892b5fafdcb78cd18a41a933"
+  },
+  {
+    "file": "m/trade/views/shares/giveCancel.html",
+    "hash": "e9b25b6202930069564b5ed99ed39935"
+  },
+  {
+    "file": "m/trade/views/shares/more.html",
+    "hash": "641abb70516a48f3c6039ee76cc0dd3b"
+  },
+  {
+    "file": "m/trade/views/shares/oneKeyPurchase.html",
+    "hash": "4e2ad1585c3d945ffca95d0a26b72097"
+  },
+  {
+    "file": "m/trade/views/shares/payQueryHistory.html",
+    "hash": "fe2218a3ead651797ee71a3dcf3d515a"
+  },
+  {
+    "file": "m/trade/views/shares/purchase.html",
+    "hash": "206bd06fb6a9db2b86107590f34cbd6f"
+  },
+  {
+    "file": "m/trade/views/shares/recordQuery.html",
+    "hash": "a58a7a0a72f4a4ab1218f5eb2c24ea27"
+  },
+  {
+    "file": "m/trade/views/shares/success.html",
+    "hash": "f013e4d9bb1b11ce43a15dd19d24b46e"
+  },
+  {
+    "file": "m/trade/views/shares/theCurrentSuccess.html",
+    "hash": "dad81746470e54764d7b92cbea8c9558"
+  },
+  {
+    "file": "m/trade/views/shares/waiverSubscription.html",
+    "hash": "95feb56ec9f81f8cbe2bcea7ae3595fc"
+  },
+  {
+    "file": "m/trade/views/stock/matchProtocol.html",
+    "hash": "6a043e991a9642d7517591df84ca3272"
+  },
+  {
+    "file": "m/trade/views/stock/moneyFlow.html",
+    "hash": "4a7f48d2d509b4c95c9c9111525d67a1"
+  },
+  {
+    "file": "m/trade/views/stock/noMatchProtocol.html",
+    "hash": "1a29f8eced15b9e007117251a17d2548"
+  },
+  {
+    "file": "m/trade/views/stock/statementQuery.html",
+    "hash": "bc808e373e8714c38bffb9d3fee32794"
+  },
+  {
+    "file": "m/trade/views/stock/stockBuy.html",
+    "hash": "a37cc97b0a11aad685650618abce067e"
+  },
+  {
+    "file": "m/trade/views/stock/stockCancel.html",
+    "hash": "db2da75cfa6b2cf929d15c8afe24ba98"
+  },
+  {
+    "file": "m/trade/views/stock/stockHolding.html",
+    "hash": "ab0638d9daa60886336bd9e379d36829"
+  },
+  {
+    "file": "m/trade/views/stock/stockNoMatchHolding.html",
+    "hash": "ee4f8a8a65481576620445767dbb985d"
+  },
+  {
+    "file": "m/trade/views/stock/stockQuery.html",
+    "hash": "abbcfe210f45b346af30e047b12731fe"
+  },
+  {
+    "file": "m/trade/views/stock/stockQueryHistory.html",
+    "hash": "953f2e3ae0b0369a683a3578e9c3b09d"
+  },
+  {
+    "file": "m/trade/views/stock/stockQueryToday.html",
+    "hash": "0aa7fa9d30f19cbd76e5e97ac134d300"
+  },
+  {
+    "file": "m/trade/views/stock/stockSell.html",
+    "hash": "726f668f90bbb27239dcd8f16a236090"
+  }
+]

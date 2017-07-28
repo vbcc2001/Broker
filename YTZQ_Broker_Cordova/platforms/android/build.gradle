@@ -89,6 +89,7 @@ ext {
 
 // PLUGIN GRADLE EXTENSIONS START
 apply from: "cordova-hot-code-push-plugin/broker-chcp.gradle"
+apply from: "cordova-hot-code-push-local-dev-addon/broker-chcp-localdev.gradle"
 // PLUGIN GRADLE EXTENSIONS END
 
 def hasBuildExtras = file('build-extras.gradle').exists()

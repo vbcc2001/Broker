@@ -1,0 +1,114 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+        "spec": "git+https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:nordnet/cordova-hot-code-push-local-dev-addon.git",
+          "sshUrl": "git+ssh://git@github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+          "httpsUrl": "git+https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+          "gitUrl": "git://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+          "shortcut": "github:nordnet/cordova-hot-code-push-local-dev-addon",
+          "directUrl": "https://raw.githubusercontent.com/nordnet/cordova-hot-code-push-local-dev-addon/master/package.json"
+        }
+      },
+      "A:\\Broker\\YTZQ_Broker_Cordova\\node_modules"
+    ]
+  ],
+  "_from": "git+https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+  "_id": "cordova-hot-code-push-local-dev-addon@0.4.2",
+  "_inCache": true,
+  "_location": "/cordova-hot-code-push-local-dev-addon",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+    "spec": "git+https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:nordnet/cordova-hot-code-push-local-dev-addon.git",
+      "sshUrl": "git+ssh://git@github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+      "httpsUrl": "git+https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+      "gitUrl": "git://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+      "shortcut": "github:nordnet/cordova-hot-code-push-local-dev-addon",
+      "directUrl": "https://raw.githubusercontent.com/nordnet/cordova-hot-code-push-local-dev-addon/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git#f353799ffcfae5d059922a345d0c729732625596",
+  "_shasum": "140be1578226a3d3330a22d1a0ce195897dac631",
+  "_shrinkwrap": null,
+  "_spec": "https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git",
+  "_where": "A:\\Broker\\YTZQ_Broker_Cordova\\node_modules",
+  "author": {
+    "name": "Nikolay Demyankov for Nordnet Bank AB"
+  },
+  "bugs": {
+    "url": "https://github.com/nordnet/cordova-hot-code-push-local-dev-addon/issues"
+  },
+  "cordova": {
+    "id": "cordova-hot-code-push-local-dev-addon",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "simple-plist": "^0.1.4",
+    "xml2js": "^0.4.17"
+  },
+  "description": "Cordova plugin that add's local development feature to the Hot Code Push plugin",
+  "devDependencies": {},
+  "engines": [
+    {
+      "name": "cordova-ios",
+      "version": ">=3.8"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.2.0"
+    }
+  ],
+  "gitHead": "f353799ffcfae5d059922a345d0c729732625596",
+  "homepage": "https://github.com/nordnet/cordova-hot-code-push-local-dev-addon#readme",
+  "keywords": [
+    "cordova",
+    "code",
+    "update",
+    "hot code push",
+    "local",
+    "development",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-hot-code-push-local-dev-addon",
+  "optionalDependencies": {},
+  "readme": "# Cordova Hot Code Push Local Development Add-on\r\n\r\nThis plugin adds local development feature to the [Hot Code Push plugin](https://github.com/nordnet/cordova-hot-code-push). With it you can develop your app and see the result immediately on the device. No need to restart it on every change you make in your web files: all the updates are uploaded automatically.\r\n\r\n## Supported platforms\r\n- Android 4.0.0 or above.\r\n- iOS 8.0 or above. Requires Xcode 8.\r\n\r\n## Documentation\r\n- [Installation](#installation)\r\n- [Quick start guide for Cordova project](#quick-start-guide-for-cordova-project)\r\n- [Quick start guide for Ionic project](#quick-start-guide-for-ionic-project)\r\n- [Configuration](#configuration)\r\n- [How it works](#how-it-works)\r\n- [When to use this plugin](#when-to-use-this-plugin)\r\n- [How to uninstall](#how-to-uninstall)\r\n\r\n### Installation\r\n\r\nThis requires cordova 5.0+ (current stable 0.4.2):\r\n\r\n```sh\r\ncordova plugin add cordova-hot-code-push-local-dev-addon\r\n```\r\n\r\nIt is also possible to install via repo url directly (__unstable__):\r\n```sh\r\ncordova plugin add https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git\r\n```\r\n\r\nStarting from `v0.4.0` this plugin **requires Xcode 8**. If you are using Xcode 7 - please, use `v0.3.0`:\r\n```sh\r\ncordova plugin add cordova-hot-code-push-local-dev-addon@0.3.0\r\n```\r\n\r\n**Note:** you can install plugin to any project, but it is not gonna do anything without the [Hot Code Push plugin](https://github.com/nordnet/cordova-hot-code-push).\r\n\r\n### Quick start guide for Cordova project\r\n\r\n1. Create new Cordova project using command line interface and add iOS/Android platforms:\r\n\r\n  ```sh\r\n  cordova create TestProject com.example.testproject TestProject\r\n  cd ./TestProject\r\n  cordova platform add android\r\n  cordova platform add ios\r\n  ```\r\n  Or use the existing one.\r\n\r\n2. Add Hot Code Push plugin:\r\n\r\n  ```sh\r\n  cordova plugin add cordova-hot-code-push-plugin\r\n  ```\r\n\r\n3. Add local development feature:\r\n\r\n  ```sh\r\n  cordova plugin add cordova-hot-code-push-local-dev-addon\r\n  ```\r\n\r\n4. Install Cordova Hot Code Push CLI client:\r\n\r\n  ```sh\r\n  npm install -g cordova-hot-code-push-cli\r\n  ```\r\n\r\n5. Start local server by executing:\r\n\r\n  ```sh\r\n  cordova-hcp server\r\n  ```\r\n\r\n  As a result you will see something like this:\r\n  ```\r\n  Running server\r\n  Checking:  /Cordova/TestProject/www\r\n  local_url http://localhost:31284\r\n  Warning: .chcpignore does not exist.\r\n  Build 2015.09.02-10.17.48 created in /Cordova/TestProject/www\r\n  cordova-hcp local server available at: http://localhost:31284\r\n  cordova-hcp public server available at: https://5027caf9.ngrok.com\r\n  ```\r\n\r\n6. Open new console window, go to the project root and launch the app:\r\n\r\n  ```sh\r\n  cordova run\r\n  ```\r\n\r\n  Wait until application is launched for both platforms.\r\n\r\n6. Now open your `index.html` page in `www` folder of the `TestProject`, change something in it and save. In a few seconds you will see updated page on the launched devices (emulators).\r\n\r\nFrom this point you can do local development, where all the changes are uploaded on the devices without the need to restart applications on every change you made.\r\n\r\n### Quick start guide for Ionic project\r\n\r\n1. Create new Ionic project using command line interface and add iOS/Android platforms:\r\n\r\n  ```sh\r\n  ionic start TestProject blank\r\n  cd ./TestProject\r\n  ionic platform add android\r\n  ionic platform add ios\r\n  ```\r\n  Or use the existing one.\r\n\r\n2. Build project for the first time before adding plugin to it.\r\n\r\n  ```sh\r\n  ionic build\r\n  ```\r\n\r\n  This is required mainly for iOS, because in some cases Ionic creates iOS project with the wrong name (`HelloCordova`) instead the one that is specified in the `config.xml`. But after the `build` it becomes the correct one.\r\n\r\n3. Add Hot Code Push plugin:\r\n\r\n  ```sh\r\n  ionic plugin add cordova-hot-code-push-plugin\r\n  ```\r\n\r\n4. Add local development feature:\r\n\r\n  ```sh\r\n  ionic plugin add cordova-hot-code-push-local-dev-addon\r\n  ```\r\n\r\n5. Install Cordova Hot Code Push CLI client:\r\n\r\n  ```sh\r\n  npm install -g cordova-hot-code-push-cli\r\n  ```\r\n\r\n6. Start local server by executing:\r\n\r\n  ```sh\r\n  cordova-hcp server\r\n  ```\r\n\r\n  As a result you will see something like this:\r\n  ```\r\n  Running server\r\n  Checking:  /Cordova/TestProject/www\r\n  local_url http://localhost:31284\r\n  Warning: .chcpignore does not exist.\r\n  Build 2015.09.02-10.17.48 created in /Cordova/TestProject/www\r\n  cordova-hcp local server available at: http://localhost:31284\r\n  cordova-hcp public server available at: https://5027caf9.ngrok.com\r\n  ```\r\n\r\n7. Open new console window, go to the project root and launch the app:\r\n\r\n  ```sh\r\n  ionic run\r\n  ```\r\n\r\n  Wait until application is launched for both platforms.\r\n\r\n8. Now open your `index.html` page in `www` folder of the `TestProject`, change something in it and save. In a few seconds you will see updated page on the launched devices (emulators).\r\n\r\nFrom this point you can do local development, where all the changes are uploaded on the devices without the need to restart applications on every change you made.\r\n\r\n### Configuration\r\n\r\nIf you just started a new project or didn't define `config-file` in the `config.xml` - then you don't need to do any configuration. You just need to launch the local server by executing `cordova-hcp server`, and the plugin will handle the rest.\r\n\r\nBut if your `config.xml` already has a `config-file` - then you need to explicitly activate plugin in the app like so:\r\n```xml\r\n<chcp>\r\n  <config-file url=\"http://mydomain.com/chcp.json\" />\r\n  <local-development enabled=\"true\" />\r\n</chcp>\r\n```\r\n\r\nAs you can see, you just need to add `<local-development />` preference to the `<chcp />` block and set `enabled` to `true`. If it set to `false` - plugin is disabled.\r\n\r\nIf enabled and local server is running - plugin will take it's url and inject it as a `config-file` in the platform-specific `config.xml`. As a result, your app will be configured to work with the local server.\r\n\r\n### How it works\r\n\r\nPlugin does his work on two stages:\r\n\r\n1. When the project is build (`cordova build` or `cordova run`).\r\n2. When the app is running.\r\n\r\n##### Build phase\r\n\r\nWhen you execute `cordova build` plugin:\r\n\r\n1. Takes local server's url and inject's it as a `config-file` into platform-specific `config.xml`.\r\n2. Increases build version of the app, to force reinstallation of the of the `www` folder on the external storage. Basically, this reset's the application's cache folder.\r\n3. For iOS app it activates support for Swift code.\r\n\r\nAs an output you can see something like this in the console:\r\n```\r\nCHCP Local Development Add-on:\r\n    Setting config-file to local server: https://20a51a38.ngrok.com/chcp.json\r\n    Android version code is set to 5\r\n    iOS bundle version set to 4\r\nSwift support activation hook:\r\n    IOS project now has deployment target set to: 7.0\r\n    IOS project option EMBEDDED_CONTENT_CONTAINS_SWIFT set as: YES\r\n    IOS project Runpath Search Paths set to: @executable_path/Frameworks\r\n    Injected swift header HelloCordova-Swift.h into plugin's main header.\r\n```\r\n\r\n##### App is running\r\n\r\nWhen the app launches - plugin tries to connect to the local server's socket. Thru that socket we will receive notifications from the server, that new release is ready for upload:\r\n```\r\nFile changed:  /Cordova/Test/www/index.html\r\nBuild 2015.11.10-10.14.00 created in /Cordova/Test/www\r\nShould trigger reload for build: 2015.11.10-10.14.00\r\n```\r\nWhen this happens - plugin captures that event and sends command to the main plugin, that it need to fetch the update.\r\n\r\nAs long as you work on your web project - there is no need to restart the app. The only case when you need to restart it is when you add new plugins. They can have some additional hooks, or native code, and we can't update that on-the-fly.\r\n\r\n### When to use this plugin\r\n\r\nYou should use this plugin for development purpose only. It will help you to speed up the development, and nothing more. When the app is ready and you are prepared for release - don't forget to delete it. It's not gonna work in the release mode anyway. Plus, if you'll try to publish iOS version of the app with this plugin - there is a good chance that it will be rejected because of the Swift code. For some reason when you build your app from console - in the result archive there is no `SwiftSupport` folder. And because of that you will be rejected with the message:\r\n```\r\nDear developer,\r\n\r\nWe have discovered one or more issues with your recent delivery for \"Directory.\". To process your delivery, the following issues must be corrected:\r\n\r\nInvalid Swift Support - The SwiftSupport folder is missing. Rebuild your app using the current public (GM) version of Xcode and resubmit it.\r\n\r\nOnce these issues have been corrected, you can then redeliver the corrected binary.\r\n\r\nRegards,\r\n\r\nThe App Store team\r\n```\r\n\r\n### How to uninstall\r\n\r\nTo remove the plugin just execute:\r\n```sh\r\ncordova plugin remove cordova-hot-code-push-local-dev-addon\r\n```\r\n\r\nAs a result, it will delete all plugin's files. In the case of the iOS it will also disable Swift support in the project's config by setting `Embedded Content Contains Swift Code` preference to `NO`:\r\n```\r\nCHCP Local Dev plugin cleanup:\r\n    IOS project option EMBEDDED_CONTENT_CONTAINS_SWIFT set as: NO\r\n```\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordnet/cordova-hot-code-push-local-dev-addon.git"
+  },
+  "version": "0.4.2"
+}
