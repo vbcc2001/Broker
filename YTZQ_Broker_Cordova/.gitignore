@@ -1,2 +1,4 @@
 /node_modules/*
-
+/www/.svn/*
+/www/WEB-INF/*
+/www/META-INF/*
